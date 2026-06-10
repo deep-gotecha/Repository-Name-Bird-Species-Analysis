@@ -1,6 +1,6 @@
 # 🐦 Bird Species Observation Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes bird observation records collected from Forest and Grassland habitats as part of a bird monitoring program.
 
@@ -17,7 +17,7 @@ The goal is to understand bird observation patterns, species diversity, habitat 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze bird observation trends over time.
 - Compare Forest and Grassland habitats.
@@ -29,7 +29,7 @@ The goal is to understand bird observation patterns, species diversity, habitat 
 
 ---
 
-## 📊 Dataset Summary
+##  Dataset Summary
 
 | Metric | Value |
 |----------|----------|
@@ -41,7 +41,7 @@ The goal is to understand bird observation patterns, species diversity, habitat 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming
 
@@ -67,7 +67,7 @@ The goal is to understand bird observation patterns, species diversity, habitat 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Bird_Species_Observation_Analysis_Project
@@ -110,7 +110,7 @@ Bird_Species_Observation_Analysis_Project
 
 ---
 
-## 📈 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Cleaning
 
@@ -159,7 +159,7 @@ Bird_Species_Observation_Analysis_Project
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Temporal Insights
 
@@ -184,7 +184,7 @@ Bird_Species_Observation_Analysis_Project
 
 ---
 
-## 🌱 Conservation Insights
+##  Conservation Insights
 
 - Forest habitats produced more observations.
 - Grasslands exhibited nearly identical species diversity.
@@ -193,7 +193,7 @@ Bird_Species_Observation_Analysis_Project
 
 ---
 
-## 📊 Interactive Dashboard
+##  Dashboard
 
 The project includes a multi-page Streamlit dashboard featuring:
 
@@ -214,7 +214,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Geospatial Mapping
 - Predictive Modeling
@@ -224,6 +224,6 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Deep Gotecha
